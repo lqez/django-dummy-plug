@@ -1,4 +1,4 @@
 django-dummy-plug
 =================
 
-Clones bone to be failed for testing django apps
+Dummies bone to be failed for testing django apps
